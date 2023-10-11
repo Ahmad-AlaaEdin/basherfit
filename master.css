@@ -53,5 +53,5 @@ i{
 	margin-top:16px;
 }
 @media (min-width: 544px) {  
-    .tx {font-size:45px;} /*1rem = 16px*/
+    .tx {font-size:45px!important;} /*1rem = 16px*/
   }
