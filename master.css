@@ -52,3 +52,6 @@ i{
 .my-float{
 	margin-top:16px;
 }
+@media (min-width: 544px) {  
+    .tx {font-size:45px;} /*1rem = 16px*/
+  }
