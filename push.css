@@ -31,7 +31,7 @@ body{
    
     align-items: center;
     width: 250px;
-    height: 350px;
+    height: fit-content;
     margin: auto;
     border-radius: 15%;
     overflow: hidden;
