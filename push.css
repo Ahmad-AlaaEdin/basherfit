@@ -4,6 +4,7 @@ body{
     background-position: center top;
     background-size: cover;
     background-attachment: fixed;
+    scroll-behavior: smooth;
     
 }
 .float{
@@ -20,7 +21,22 @@ body{
 	
   z-index:100;
 }
-
+.float1{
+	position:fixed;
+    border: none;
+    font-weight: 200;
+	width:60px;
+	height:60px;
+	bottom:90px;
+	right:20px;
+	background-color:grey;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	display: none;
+  z-index:100;
+}
 .my-float{
 	margin-top:16px;
 }
