@@ -37,6 +37,21 @@ body{
 	display: none;
   z-index:100;
 }
+@media only screen and (max-width: 600px) {
+    .float1 {
+    width:40px;
+	height:40px;
+    font-size:20px;
+    }
+    .float {
+        width:40px;
+        height:40px;
+        font-size:20px;
+        }
+    .my-float{
+            margin-top:10px!important;
+        }
+  }
 .my-float{
 	margin-top:16px;
 }
